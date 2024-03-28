@@ -1,0 +1,11 @@
+Intended Platform: Android
+Intended Framework/Programming Language: React Native
+Explore Cross-Platform Development: Yes
+
+Explanation for my selections
+
+I believe Android has a significant market share in the mobile ecosystem, making it an attractive platform for reaching a wide audience. Additionally, Android development offers robust tools and resources, along with a large community for support and collaboration.
+
+React Native as the framework for development allows for leveraging the power of JavaScript to build cross-platform mobile applications.React Native enables developers to write code once and deploy it across multiple platforms, including Android and iOS. This saves development time and resources.
+
+I would like to explore the cross platform development as it will maximise the reach of the final project and also targeting multiple platforms with single code base would be more efficient and interesting and also addresses the needs of diverse groups of users.
